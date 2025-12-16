@@ -57,6 +57,19 @@ This task focuses on **packet capture, protocol identification, and basic traffi
 ---
 
 ## 🔍 Key Observations
+---
+
+## 🧠 Skills Gained
+- Packet capture & inspection
+- Protocol-level analysis
+- TCP/IP fundamentals
+- Network troubleshooting basics
+- Wireshark filtering techniques
+
+---
+
+## 🧪 Sample Filters Used
+
 - DNS queries occur before accessing any website
 - ICMP packets confirm network reachability
 - Multiple protocols work together for a single network request
@@ -64,9 +77,15 @@ This task focuses on **packet capture, protocol identification, and basic traffi
 
 ---
 
-## 📁 Repository Structure
+---
 
-│
-├──  task5_network_capture.pcap
-├── report.md
-└── README.md
+## 🏁 Conclusion
+This task provided hands-on experience in real-time network traffic analysis.  
+Understanding packets at this level is essential for **cyber security, penetration testing, and network troubleshooting**.
+
+---
+
+## 👨‍💻 Author
+**Dinesh**  
+Cyber Security Intern  
+
